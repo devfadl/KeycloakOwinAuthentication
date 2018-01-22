@@ -289,8 +289,8 @@ namespace KeycloakIdentityModel.Utilities
             {
                 parameters.Add(OpenIdConnectParameterNames.ClientId, _options.ClientId);
 
-                if (!string.IsNullOrWhiteSpace(_options.ClientSecret))
-                    parameters.Add(OpenIdConnectParameterNames.ClientSecret, _options.ClientSecret);
+                //if (!string.IsNullOrWhiteSpace(_options.ClientSecret))
+                //    parameters.Add(OpenIdConnectParameterNames.ClientSecret, _options.ClientSecret);
             }
 
             if (!string.IsNullOrWhiteSpace(_options.IdentityProvider))
