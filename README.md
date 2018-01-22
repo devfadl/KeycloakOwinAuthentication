@@ -1,10 +1,13 @@
-# THIS PROJECT IS NO LONGER BEING MAINTAINED
+# THIS FORK FROM THE MAIN PROJECT IS TO PUSH BUG FIXES AND REVIVE THE PROJECT
 
 *Please use this project at your own risk. The software is provided as-is.*
 
-I have unfortunately ran out of time to continue with this project's continual development and maintenance, and cannot accept pull requests, fix issues, or answer in-depth technical questions.
+Since the developer who created this essential and very needed and helpful project has no time for maintaining it anymore
+"I have unfortunately ran out of time to continue with this project's continual development and maintenance, and cannot accept pull requests, fix issues, or answer in-depth technical questions. This project is in need of a maintainer, if you would like to become one please ask, email, or otherwise reach out to Dylan Plecki (djp at plecki dot net)." 
+He asked for a maintainer to keep the project running and after contacting him and getting write permission, I found out that the API key to update the NuGet package is expired and we'll need to create a new key every year. So to save time, and keep the project running, I decided to fork it, and publish the NuGet Package with a different name so it would be distinguished from the main project.
 
-This project is in need of a maintainer, if you would like to become one please ask, email, or otherwise reach out to Dylan Plecki (djp at plecki dot net).
+I would like to express my Gratitude to Dylan for creating this Library which brought the Keycloak functionality to .Net web Applications.
+
 
 ----------------------------------------------------------------------------------
 
